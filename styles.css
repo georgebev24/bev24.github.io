@@ -11,6 +11,10 @@
   flex: 1;
 } */
 
+.h1-mint-green {
+  color: #2DB99A;
+}
+
 
 .main-nav {
   width: 100%;
@@ -53,7 +57,7 @@ a {
 }
 
 main {
-  padding-top: 120px;
+  padding-top: 190px;
   max-width: 50%;
   margin: 0 auto;
 }
@@ -61,22 +65,23 @@ main {
 
 h1 {
   color: black;
-  font-family: 'Arvo', serif;
-  font-weight: 400;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 700;
   font-size: 60px;
   padding-left: 20px;
   padding-right: 20px;
-  line-height: 0.3em;
-  text-transform: uppercase;
+  margin-top: -43px;
+  line-height: 1em;
+  /* text-transform: uppercase; */
+  text-transform: capitalize;
   letter-spacing: 5px;
 }
 
 
 
-
 h2 {
   color: black;
-  font-family: 'Arvo', serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: 400;
   font-size: 30px;
   padding-left: 20px;
@@ -91,8 +96,9 @@ h2 {
 p {
   padding-left: 20px;
   padding-right: 20px;
+  margin-top: 20px;
   font-weight: 400;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Arvo', serif;
   font-size: 16px;
   line-height: 1.4em;
 }
