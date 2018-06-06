@@ -74,7 +74,7 @@ h1 {
   line-height: 1em;
   /* text-transform: uppercase; */
   text-transform: capitalize;
-  letter-spacing: 5px;
+  /* letter-spacing: 5px; */
 }
 
 
